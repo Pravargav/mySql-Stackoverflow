@@ -203,6 +203,7 @@ function Profilext() {
           </Container>
         </Navbar>
       ))}
+      {userType==="patient" &&
       <div style={{ display: "flex" }}>
         <Card style={{ width: "50rem", marginRight: "10px" }}>
           <Card.Body>
@@ -244,6 +245,30 @@ function Profilext() {
           </Card.Body>
         </Card>
       </div>
+}
+{userType==="doctor" &&
+      <div style={{ display: "flex" }}>
+        <Card style={{ width: "50rem", marginRight: "10px" }}>
+          <Card.Body>
+            <Card.Text>
+              Some quick example text to build on the card title and make up the
+              bulk of the card's content.
+            </Card.Text>
+            <Card.Link>
+              {" "}
+              <Button
+                variant="dark"
+                size="lg"
+                style={{ fontFamily: "sans-serif" }}
+                onClick={handleClick}
+              >
+                Myprofile
+              </Button>{" "}
+            </Card.Link>
+          </Card.Body>
+        </Card>
+      </div>
+}
     </>
   );
 }
