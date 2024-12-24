@@ -1,0 +1,243 @@
+answerid,questionid,doctorid,text,votes
+A001,Q200,D010,"Yes, based on your symptoms, you may be dealing with a respiratory infection. It is important to get a proper diagnosis and treatment.",5
+A002,Q201,D025,"Your symptoms suggest a possible case of influenza. I recommend you get a flu test as soon as possible.",8
+A003,Q202,D030,"It seems like you might be suffering from a stomach ulcer. Avoid spicy foods and consult with a gastroenterologist.",10
+A004,Q203,D015,"It could be an allergic reaction to something you’ve recently consumed. Try antihistamines and consult an allergist if needed.",7
+A005,Q204,D013,"You may have a vitamin deficiency, which is causing your fatigue. A blood test will confirm this. Take a multivitamin in the meantime.",12
+A006,Q205,D019,"The symptoms point to a mild case of bronchitis. Make sure to rest and drink plenty of fluids while waiting for the inflammation to subside.",6
+A007,Q206,D017,"This may be a sign of stress. I suggest a physical exam and stress management strategies to help relieve the symptoms.",11
+A008,Q207,D014,"From the details, it looks like you might have eczema. Try using a topical ointment and avoid triggers like cold weather.",9
+A009,Q208,D020,"This sounds like a potential case of pneumonia. Please visit the doctor immediately to get checked.",13
+A010,Q209,D008,"Your condition might be due to dehydration. I suggest increasing your water intake and monitoring your symptoms closely.",14
+A011,Q210,D011,"This seems like an issue with your thyroid gland. A blood test can confirm this condition, and medications can help.",5
+A012,Q211,D012,"It is possible you are dealing with an eye infection. Please visit an ophthalmologist for proper treatment.",10
+A013,Q212,D016,"Based on your symptoms, I believe it could be an early sign of arthritis. Early intervention is key, so see a rheumatologist.",7
+A014,Q213,D022,"This could be a mild form of vertigo. Take it easy and avoid sudden head movements. If it persists, a neurologist visit is recommended.",6
+A015,Q214,D009,"It looks like a skin condition that can be treated with over-the-counter cream. If it worsens, see a dermatologist.",9
+A016,Q215,D018,"You might have a mild concussion. Make sure to rest, and avoid heavy activities for the next few days.",11
+A017,Q216,D024,"Your symptoms are likely a case of digestive issues. A change in diet and avoiding fatty foods should help.",8
+A018,Q217,D027,"It could be an issue with your kidneys. Drink more water and visit a nephrologist for further tests.",13
+A019,Q218,D029,"This looks like an indication of a cold. Take rest, drink warm fluids, and if it doesn’t improve, see a doctor.",14
+A020,Q219,D007,"It may be an allergic reaction to a medication. Please check with your prescribing doctor and switch medications if needed.",10
+A021,Q220,D023,"The symptoms suggest you have a viral infection. Make sure to stay hydrated and consult with your primary doctor if things worsen.",5
+A022,Q221,D026,"It could be a sign of a sinus infection. Try nasal decongestants and get checked by an ENT specialist if the condition persists.",8
+A023,Q222,D006,"This looks like a mild asthma flare-up. Use your inhaler and monitor your symptoms closely.",7
+A024,Q223,D004,"The symptoms are consistent with a possible urinary tract infection. Visit a urologist for an accurate diagnosis and treatment.",12
+A025,Q224,D005,"It appears to be an issue related to stress. Try relaxation techniques like yoga or meditation to reduce the symptoms.",11
+A026,Q225,D003,"The symptoms suggest a possible fungal infection. Use antifungal creams and consult a dermatologist for treatment.",9
+A027,Q226,D002,"This could be a mild case of food poisoning. Drink fluids to stay hydrated and avoid foods that could worsen the condition.",8
+A028,Q227,D028,"It seems like your blood pressure is elevated. Make sure to monitor it and consult with a cardiologist for further management.",10
+A029,Q228,D021,"The symptoms point towards a possible case of anemia. I suggest you get a blood test to check your iron levels.",6
+A030,Q229,D001,"It looks like a cold sore or herpes simplex infection. Over-the-counter ointments should help manage the symptoms.",7
+A065,Q151,D001,"For headaches, a warm compress on the forehead can help, and ensure you’re staying hydrated.",7
+A066,Q200,D022,"It could be stress-related. Consider doing some breathing exercises and taking a short walk.",8
+A067,Q180,D005,"It appears to be a mild case of indigestion. Try drinking peppermint tea or taking an antacid.",6
+A068,Q210,D010,"It could be a viral infection. Stay hydrated, rest, and monitor for fever or other symptoms.",9
+A069,Q175,D007,"This looks like a case of mild allergies. Use an antihistamine to alleviate symptoms.",7
+A070,Q160,D003,"Your symptoms might be due to dehydration. Drink water and avoid caffeine.",8
+A071,Q220,D020,"The symptoms suggest a respiratory issue. Rest and consider using a humidifier in your room.",5
+A072,Q250,D024,"It looks like a simple cold. Drink plenty of fluids and take a decongestant for relief.",6
+A073,Q230,D004,"This could be an allergic reaction. Try avoiding triggers and using antihistamines.",9
+A074,Q190,D012,"These symptoms may indicate a mild flu. Rest and take fever medicine if needed.",7
+A075,Q180,D015,"Your symptoms suggest a possible sinus infection. Use a saline rinse to clear out your sinuses.",8
+A076,Q170,D022,"It seems like you might be dealing with a minor skin irritation. Try a hydrocortisone cream for relief.",6
+A077,Q160,D014,"It looks like mild food poisoning. Drink fluids and avoid spicy foods for the next few days.",7
+A078,Q250,D009,"It could be a viral infection. Drink fluids and rest as much as possible, and monitor your symptoms.",8
+A079,Q240,D017,"The symptoms may be stress-related. Try some relaxation techniques and focus on taking breaks throughout the day.",5
+A080,Q150,D026,"This looks like a cold. Rest, drink fluids, and avoid exposure to cold air.",6
+A081,Q220,D027,"It seems to be a digestive issue. Avoid heavy meals and try eating smaller portions more frequently.",8
+A082,Q210,D008,"It could be a case of mild asthma. Avoid known triggers and consider using an inhaler as prescribed.",9
+A083,Q230,D013,"This looks like an allergy flare-up. Use nasal sprays and avoid pollen when possible.",7
+A084,Q160,D019,"It seems like an allergic reaction. Consider taking an antihistamine and avoiding triggers.",6
+A085,Q175,D025,"Your symptoms suggest a respiratory infection. Rest, drink warm fluids, and consider seeing a doctor if they persist.",8
+A086,Q180,D021,"This could be due to dehydration. Drink plenty of water and avoid caffeine and alcohol.",7
+A087,Q200,D016,"The symptoms seem to be a mild infection. Drink fluids and monitor your temperature.",9
+A088,Q240,D004,"These symptoms seem related to stress. Consider trying some deep-breathing exercises and relaxation techniques.",6
+A089,Q220,D028,"It could be a respiratory infection. Drink fluids and take fever-reducing medicine if needed.",5
+A090,Q210,D023,"Your symptoms could indicate an allergy. Avoid allergens and consider using a nasal spray.",8
+A091,Q250,D006,"It seems like a mild viral infection. Rest, drink plenty of fluids, and take over-the-counter medicine for relief.",7
+A092,Q150,D029,"This may be a simple cold. Stay warm and hydrated, and avoid going out into cold air.",9
+A093,Q160,D007,"Your symptoms may be a result of digestive issues. Avoid fatty or spicy foods and try a light diet.",6
+A094,Q175,D020,"This could be a sinus issue. Use a saline solution to flush your sinuses and drink warm fluids.",8
+A095,Q180,D003,"It seems like a case of mild flu. Stay hydrated and take over-the-counter cold medicine to relieve symptoms.",7
+A096,Q190,D010,"Your symptoms could indicate a urinary tract infection. See a doctor if the symptoms continue or worsen.",6
+A097,Q220,D022,"It seems to be a skin rash. Use a mild hydrocortisone cream and avoid itching.",7
+A098,Q240,D013,"This might be a case of mild asthma. Avoid triggers and use your inhaler as needed.",5
+A099,Q151,D001,"For headaches, a warm compress on the forehead can help, and ensure you’re staying hydrated.",8
+A100,Q200,D022,"It could be stress-related. Consider doing some breathing exercises and taking a short walk.",7
+A101,Q175,D003,"It appears to be a mild case of indigestion. Try drinking peppermint tea or taking an antacid.",6
+A102,Q180,D010,"It could be a viral infection. Stay hydrated, rest, and monitor for fever or other symptoms.",9
+A103,Q230,D007,"This looks like a case of mild allergies. Use an antihistamine to alleviate symptoms.",6
+A104,Q170,D004,"Your symptoms might be due to dehydration. Drink water and avoid caffeine.",7
+A105,Q210,D022,"The symptoms suggest a respiratory issue. Rest and consider using a humidifier in your room.",5
+A106,Q220,D017,"It looks like a simple cold. Drink plenty of fluids and take a decongestant for relief.",8
+A107,Q250,D014,"It seems like you might be dealing with a minor skin irritation. Try a hydrocortisone cream for relief.",7
+A108,Q230,D006,"This could be an allergic reaction. Try avoiding triggers and using antihistamines.",8
+A109,Q160,D025,"It seems like mild food poisoning. Drink fluids and avoid spicy foods for the next few days.",6
+A110,Q180,D011,"Your symptoms suggest a possible sinus infection. Use a saline rinse to clear out your sinuses.",7
+A111,Q175,D009,"It could be a viral infection. Drink fluids and rest as much as possible, and monitor your symptoms.",8
+A112,Q160,D019,"This could be a stress-related symptom. Consider some relaxation techniques and drinking herbal tea.",7
+A113,Q250,D013,"It looks like an allergy flare-up. Use nasal sprays and avoid pollen when possible.",6
+A114,Q220,D023,"The symptoms may be stress-related. Try some deep-breathing exercises and relaxation techniques.",8
+A115,Q240,D012,"It could be a respiratory infection. Drink fluids and take fever-reducing medicine if needed.",5
+A116,Q210,D015,"This looks like an allergic reaction. Avoid allergens and use antihistamines to relieve symptoms.",9
+A117,Q160,D020,"It seems like a digestive issue. Avoid heavy meals and try eating smaller portions more frequently.",6
+A118,Q180,D002,"It appears to be a mild case of flu. Drink plenty of fluids and get rest.",7
+A119,Q220,D026,"This might be a case of mild asthma. Avoid triggers and use your inhaler as needed.",9
+A120,Q230,D008,"Your symptoms could indicate a urinary tract infection. See a doctor if the symptoms continue or worsen.",6
+A121,Q200,D027,"It looks like a cold. Drink fluids, rest, and monitor your temperature.",7
+A122,Q180,D005,"This could be a case of mild dehydration. Try drinking water and avoiding caffeinated beverages.",6
+A123,Q150,D010,"It could be a sinus infection. Drink plenty of fluids and use a saline nasal spray.",7
+A124,Q175,D011,"This could be a mild respiratory infection. Rest and hydrate to help recovery.",8
+A125,Q250,D024,"The symptoms may be related to an allergic reaction. Use over-the-counter antihistamines for relief.",7
+A126,Q220,D013,"It appears to be a mild case of indigestion. Drink some ginger tea and avoid spicy foods.",6
+A127,Q230,D004,"This could be a mild skin irritation. Use a topical cream for relief and avoid scratching.",8
+A128,Q210,D009,"Your symptoms might be a mild case of the flu. Rest, drink fluids, and avoid exposure to cold air.",7
+A129,Q240,D022,"This looks like a digestive issue. Eat light meals and avoid fatty foods for a few days.",5
+A130,Q160,D023,"It seems like a viral infection. Rest, hydrate, and monitor for other symptoms.",8
+A131,Q151,D001,"The symptoms suggest an allergic reaction. Consider using antihistamines and avoiding allergens.",8
+A132,Q180,D022,"This could be a mild cold. Drink fluids, rest, and avoid cold air.",7
+A133,Q220,D003,"It looks like you have indigestion. Try drinking warm water and avoid spicy foods.",6
+A134,Q170,D005,"The symptoms indicate stress-related fatigue. Try some relaxation exercises.",9
+A135,Q190,D006,"It seems like a mild respiratory infection. Rest and keep hydrated to help with recovery.",7
+A136,Q230,D010,"Your symptoms are indicative of mild asthma. Consider using your inhaler as prescribed.",8
+A137,Q210,D008,"This could be a case of mild dehydration. Try drinking water regularly throughout the day.",6
+A138,Q175,D004,"This looks like a viral infection. Rest and drink fluids to stay hydrated.",8
+A139,Q200,D015,"Your symptoms might be related to a sinus infection. Use a saline nasal spray to relieve congestion.",7
+A140,Q220,D009,"It seems like a digestive issue. Avoid heavy meals and try smaller, more frequent meals.",6
+A141,Q240,D007,"The symptoms suggest a possible food allergy. Avoid the suspected food and take antihistamines if necessary.",9
+A142,Q250,D014,"It seems like a mild case of food poisoning. Drink plenty of fluids and avoid spicy foods.",6
+A143,Q160,D027,"It looks like you’re dealing with a viral infection. Stay hydrated and get enough rest.",7
+A144,Q230,D017,"This could be a minor case of eczema. Use a moisturizing cream to prevent further irritation.",8
+A145,Q200,D021,"Your symptoms indicate mild stress. Try deep-breathing exercises or meditation to relax.",7
+A146,Q180,D019,"It could be a case of mild food poisoning. Drink ginger tea to soothe your stomach.",5
+A147,Q220,D018,"This might be a respiratory issue. Try using a humidifier to ease congestion and rest.",6
+A148,Q230,D013,"It looks like a simple allergic reaction. Use antihistamines and avoid the allergen.",7
+A149,Q240,D026,"The symptoms could indicate mild dehydration. Drink water and avoid caffeinated drinks.",9
+A150,Q190,D024,"This could be a viral infection. Drink fluids, rest, and avoid exposure to cold air.",8
+A151,Q210,D025,"It appears to be a mild case of flu. Take some rest and hydrate well.",7
+A152,Q220,D016,"It could be an allergy flare-up. Avoid allergens and use antihistamines to relieve symptoms.",6
+A153,Q170,D002,"It seems like a minor skin irritation. Use a hydrocortisone cream for relief.",8
+A154,Q240,D028,"It appears to be a mild sinus infection. Use a saline nasal spray and rest.",5
+A155,Q150,D008,"This could be a case of stress-induced fatigue. Consider relaxation exercises to help.",7
+A156,Q200,D004,"This could be a respiratory issue. Use a humidifier and monitor your symptoms.",6
+A157,Q230,D021,"It seems like mild food poisoning. Stay hydrated and avoid spicy food.",8
+A158,Q180,D011,"Your symptoms might be caused by a cold. Drink fluids and rest to recover faster.",7
+A159,Q250,D005,"This looks like a mild allergic reaction. Consider taking an antihistamine and avoid known allergens.",9
+A160,Q240,D003,"It might be a simple cold. Drink hot tea and avoid cold air to feel better.",6
+A161,Q230,D020,"It appears to be an allergy. Use nasal sprays and avoid pollen when possible.",8
+A162,Q210,D007,"Your symptoms indicate a minor cold. Drink fluids and rest for faster recovery.",7
+A163,Q220,D006,"It might be a mild dehydration case. Drink plenty of water and avoid sugary drinks.",6
+A196,Q151,D003,"The symptoms suggest a mild cold. Drink fluids and rest.",8
+A197,Q175,D022,"This seems like a common cold. Use steam and stay hydrated.",7
+A198,Q180,D025,"The symptoms are pointing to a respiratory infection. Rest and stay hydrated.",9
+A199,Q190,D018,"It could be a sinus infection. Use a saline spray and drink plenty of fluids.",6
+A200,Q200,D014,"This looks like a mild fever. Drink fluids and use fever-reducing medication.",7
+A2003,Q2004,D070,"University of Health Sciences (UHS) Lahore is a vibrant, internationally recognized, student-centered, research university with 128 colleges and institutes affiliated and around 106916 undergraduate and 9157 postgraduate students registered with it.",70
+A201,Q220,D007,"It appears to be a case of food poisoning. Stay hydrated and avoid spicy foods.",6
+A202,Q230,D008,"This looks like mild allergies. Use antihistamines and avoid allergens.",7
+A203,Q240,D010,"It seems to be mild dehydration. Drink water regularly and avoid caffeinated drinks.",9
+A204,Q250,D005,"This appears to be a viral infection. Stay hydrated and rest well.",6
+A205,Q210,D026,"Your symptoms suggest mild asthma. Use an inhaler and rest.",8
+A206,Q180,D027,"It could be a respiratory issue. Stay warm and hydrated, and avoid cold air.",7
+A207,Q220,D009,"This could be mild indigestion. Drink warm water and avoid heavy meals.",8
+A208,Q230,D023,"Your symptoms point to a mild allergic reaction. Avoid allergens and take antihistamines.",9
+A209,Q240,D011,"It might be a mild viral infection. Stay warm and drink hot fluids to recover.",7
+A210,Q250,D012,"The symptoms could be from dehydration. Drink water and get some rest.",6
+A211,Q200,D004,"It seems like mild flu symptoms. Drink fluids and rest to recover faster.",7
+A212,Q170,D029,"This might be stress-induced fatigue. Try relaxation techniques like yoga.",6
+A213,Q180,D015,"It could be a mild allergy. Take antihistamines and avoid allergens.",7
+A214,Q190,D028,"It appears to be a respiratory infection. Drink fluids and rest.",6
+A215,Q200,D013,"Your symptoms suggest a mild cold. Stay warm and hydrate regularly.",9
+A216,Q210,D024,"This looks like mild dehydration. Drink water and rest in a cool environment.",8
+A217,Q220,D019,"The symptoms might be related to a viral infection. Drink hot fluids and rest.",7
+A218,Q250,D020,"It could be mild food poisoning. Drink ginger tea and avoid fatty foods.",6
+A219,Q230,D022,"It appears to be a case of mild asthma. Use your inhaler and rest.",9
+A220,Q240,D021,"It could be a respiratory infection. Use a steam inhaler and stay hydrated.",6
+A221,Q200,D002,"Your symptoms suggest a mild cold. Rest and hydrate to recover.",8
+A222,Q180,D017,"It might be an allergy reaction. Use antihistamines and avoid triggers.",7
+A223,Q210,D006,"This seems like mild fatigue. Consider reducing stress and getting enough sleep.",7
+A224,Q230,D003,"It looks like a mild fever. Stay hydrated and use fever-reducing medication.",6
+A225,Q220,D005,"This could be a viral infection. Drink fluids and rest to speed up recovery.",8
+A226,Q240,D001,"It appears to be an allergy. Take antihistamines and avoid allergens.",9
+A227,Q250,D029,"It could be a case of dehydration. Drink water and rest in a cool place.",7
+A228,Q190,D008,"Your symptoms might indicate a viral infection. Drink fluids and rest.",8
+A229,Q210,D004,"This seems to be a case of mild food poisoning. Drink fluids and rest.",6
+A230,Q200,D025,"It could be mild indigestion. Drink warm water and avoid oily foods.",7
+A249,Q310,D011,"It appears to be an allergy issue. Take antihistamines and avoid triggers.",7
+A250,Q320,D012,"It seems to be a case of mild fatigue. Get some rest and hydrate well.",6
+A251,Q330,D013,"The symptoms suggest a mild infection. Drink warm fluids and rest.",9
+A252,Q340,D014,"It looks like a mild cold. Drink fluids and avoid cold drafts.",7
+A253,Q350,D016,"The symptoms point to mild indigestion. Drink warm water and avoid fatty foods.",6
+A254,Q360,D017,"It could be a mild case of flu. Rest and drink fluids to recover quickly.",8
+A255,Q370,D019,"This might be a case of mild food poisoning. Drink water and take rest.",7
+A256,Q380,D021,"It appears to be mild dehydration. Drink water and rest in a cool place.",9
+A257,Q390,D022,"The symptoms suggest a mild cough. Drink warm fluids and rest.",6
+A258,Q400,D023,"It seems like a mild case of indigestion. Drink warm water and avoid heavy meals.",7
+A259,Q410,D025,"This appears to be mild asthma. Use an inhaler and rest for recovery.",9
+A260,Q420,D027,"It could be a mild respiratory infection. Drink hot fluids and rest.",8
+A261,Q430,D029,"The symptoms point to mild dehydration. Drink water and avoid caffeinated drinks.",6
+A262,Q440,D002,"This might be a case of allergies. Use antihistamines and avoid triggers.",8
+A319,Q340,D011,"Possible food allergy; stay away from common allergens and hydrate.",8
+A320,Q350,D013,"Mild flu-like symptoms. Drink plenty of fluids and get some rest.",9
+A321,Q360,D014,"Could be a minor stomach issue. Drink clear liquids and rest.",7
+A322,Q370,D016,"Possible dehydration. Drink more water and avoid sugary drinks.",6
+A323,Q380,D017,"It seems like mild indigestion. Try drinking warm water and avoiding fatty foods.",7
+A324,Q390,D019,"Possible mild cold symptoms; rest and stay hydrated to speed up recovery.",8
+A325,Q400,D021,"It seems like a mild allergic reaction. Take antihistamines and avoid triggers.",6
+A326,Q410,D022,"Your symptoms indicate mild fatigue. Try resting and drinking warm tea.",9
+A327,Q420,D023,"This could be a minor respiratory issue. Stay indoors and drink warm fluids.",7
+A328,Q430,D025,"It appears to be a mild case of indigestion. Drink warm fluids and avoid heavy meals.",6
+A329,Q440,D027,"Possible mild dehydration. Drink water regularly and avoid caffeinated drinks.",9
+A330,Q450,D002,"It seems like a mild respiratory infection. Rest and hydrate well to recover.",8
+A347,Q310,D018,"Hydrate well and get plenty of sleep. Your body needs rest to recover.",7
+A348,Q320,D019,"It could be an early sign of a cold. Drink warm fluids and avoid chilling environments.",8
+A349,Q330,D020,"This could be due to indigestion. Drink some ginger tea for relief.",6
+A350,Q340,D021,"Avoid stress and drink chamomile tea to relax your body and mind.",7
+A351,Q350,D022,"It seems like a mild cold. Drink warm liquids and stay cozy indoors.",8
+A352,Q360,D023,"Ensure you’re staying hydrated and try using nasal saline sprays for relief.",9
+A353,Q370,D024,"This could be a sinus infection. Drink warm liquids and get some rest.",6
+A354,Q380,D025,"Mild dehydration might be the cause. Drink water and avoid sugary drinks.",7
+A355,Q390,D026,"Consider drinking warm ginger tea and staying indoors to recover quickly.",9
+A356,Q400,D027,"This could be related to allergies. Stay indoors and avoid allergens as much as possible.",8
+A357,Q410,D028,"Try using over-the-counter cold medication and get some rest for faster recovery.",7
+A358,Q420,D029,"It seems like a mild flu. Stay hydrated and avoid going out until fully recovered.",6
+A359,Q430,D001,"Avoid cold drinks and keep yourself warm to help recover faster.",9
+A360,Q440,D002,"Rest is important for your recovery. Drink plenty of water and avoid strenuous activity.",8
+A375,Q290,D015,"Keep your immune system strong by eating healthy and getting enough rest.",9
+A376,Q300,D016,"Avoid stress and take plenty of fluids to ensure a faster recovery.",6
+A377,Q310,D017,"It’s important to hydrate and stay warm during the cold season.",8
+A378,Q320,D018,"A warm bath and hot beverages can help ease the cold symptoms.",7
+A379,Q330,D019,"This could be a sign of a bacterial infection; consult with a specialist.",9
+A380,Q340,D020,"Stay hydrated and drink warm liquids to ease symptoms of flu.",6
+A381,Q350,D021,"For better recovery, rest and consume herbal teas like chamomile.",8
+A382,Q360,D022,"Consider using a vaporizer to humidify your room and avoid further irritation.",7
+A383,Q370,D023,"For cold symptoms, hot drinks and rest are your best options.",9
+A384,Q380,D024,"To help with a sore throat, gargling warm salt water can provide relief.",6
+A385,Q390,D025,"Keep yourself hydrated and avoid consuming cold foods or drinks.",7
+A386,Q400,D026,"Get plenty of sleep, hydrate well, and try to stay in a warm environment.",8
+A387,Q410,D027,"A balanced diet with vitamin-rich foods will help boost immunity.",9
+A388,Q420,D028,"Drink plenty of water and avoid cold air to feel better faster.",6
+A389,Q430,D029,"Warm tea with honey can provide comfort for a sore throat and help with recovery.",8
+A390,Q440,D001,"Rest, hydrate, and stay warm. Your body needs time to recover.",7
+A544,Q290,D015,"Avoid exposure to cold drafts to prevent worsening of your condition.",6
+A545,Q300,D016,"Resting with your head elevated can help ease any discomfort caused by congestion.",9
+A546,Q310,D017,"Drinking warm lemon water can help soothe your throat and relieve symptoms.",7
+A547,Q320,D018,"Try to stay indoors and avoid spreading your illness to others.",6
+A548,Q330,D019,"Steaming can help clear nasal congestion and make breathing easier.",8
+A549,Q340,D020,"A warm compress on your forehead may help relieve any sinus pressure.",7
+A550,Q350,D021,"Taking a break from work or school can help you recover more quickly.",9
+A551,Q360,D022,"You might want to avoid any extreme temperatures while feeling unwell.",7
+A552,Q370,D023,"Eating soups and broths can help soothe the throat and provide nutrients.",6
+A553,Q380,D024,"Consider taking over-the-counter pain relievers for fever and discomfort.",8
+A554,Q390,D025,"A warm bath can help with muscle relaxation and congestion relief.",7
+A555,Q400,D026,"Try to avoid smoking, as it can irritate your throat and lungs further.",6
+A556,Q410,D027,"Stay active with light activities like stretching to promote circulation.",9
+A557,Q420,D028,"Natural remedies like herbal teas may provide relief from minor symptoms.",7
+A558,Q430,D029,"Taking deep breaths and relaxing can reduce stress, which helps with recovery.",8
+A559,Q440,D030,"Staying calm and patient while healing is essential for your recovery.",6
+A560,Q450,D031,"Avoid getting too cold during this period of illness to prevent worsening your symptoms.",9
+A561,Q460,D032,"Breathing in steam can help ease sinus and nasal congestion.",8
+A588,Q370,D029,"A hot shower can help clear nasal congestion and ease breathing difficulties.",6
+A589,Q420,D030,"If possible, avoid public spaces to prevent the spread of illness to others.",7
+A590,Q460,D031,"Exercise can sometimes help clear mucus and improve breathing, but avoid strenuous workouts during illness.",8

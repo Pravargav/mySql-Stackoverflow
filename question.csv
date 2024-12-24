@@ -1,0 +1,528 @@
+questionid,patientid,text,priority1,priority2,priority3,priority4
+Q001,P001,"What are the symptoms of diabetes?",Endocrinology,Nutrition,"General Medicine",Pediatrics
+Q002,P002,"How can I manage hypertension?",Cardiology,Nutrition,"General Medicine",Neurology
+Q003,P003,"What are the side effects of aspirin?",Pharmacology,"General Medicine",Cardiology,"Internal Medicine"
+Q004,P004,"How to treat persistent headaches?",Neurology,"General Medicine",ENT,Psychiatry
+Q005,P005,"Is there a vaccine for influenza?",Immunology,"General Medicine",Pediatrics,Virology
+Q006,P006,"What are the early signs of arthritis?",Rheumatology,Orthopedics,"General Medicine",Geriatrics
+Q007,P007,"How can I improve my gut health?",Gastroenterology,Nutrition,"General Medicine","Internal Medicine"
+Q008,P008,"What is the recovery time for a sprained ankle?",Orthopedics,"Sports Medicine",Physiotherapy,"General Medicine"
+Q009,P009,"Can stress cause hair loss?",Dermatology,Psychiatry,Endocrinology,"General Medicine"
+Q010,P010,"What are the symptoms of anemia?",Hematology,Nutrition,"General Medicine","Internal Medicine"
+Q011,P011,"How to prevent recurring UTIs?",Urology,"General Medicine","Infectious Diseases",Gynecology
+Q012,P012,"What are the risks of high cholesterol?",Cardiology,Nutrition,"General Medicine",Endocrinology
+Q013,P013,"What causes chronic fatigue?","General Medicine",Psychiatry,Endocrinology,"Internal Medicine"
+Q014,P014,"How to reduce anxiety symptoms?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q015,P015,"What are the treatments for insomnia?",Neurology,Psychiatry,"Lifestyle Medicine","General Medicine"
+Q016,P016,"Can diet affect joint pain?",Rheumatology,Nutrition,Orthopedics,"General Medicine"
+Q017,P017,"How to care for a wound to avoid infection?","General Surgery","General Medicine","Infectious Diseases",Dermatology
+Q018,P018,"What is the impact of diabetes on vision?",Ophthalmology,Endocrinology,"General Medicine",Nutrition
+Q019,P019,"What are the signs of dehydration?",Nutrition,"General Medicine",Nephrology,Pediatrics
+Q020,P020,"What are the risks of untreated high blood pressure?",Cardiology,"General Medicine",Nephrology,Neurology
+Q021,P021,"How can I prevent cavities?",Dentistry,Nutrition,Pediatrics,"General Medicine"
+Q022,P022,"What is the cause of frequent dizziness?",Neurology,Cardiology,ENT,"General Medicine"
+Q023,P023,"How to manage migraines effectively?",Neurology,Psychiatry,"General Medicine","Lifestyle Medicine"
+Q024,P024,"Can exercise help with depression?",Psychiatry,"Lifestyle Medicine",Neurology,"General Medicine"
+Q025,P025,"What is the role of vitamin D in bone health?",Nutrition,Orthopedics,"General Medicine",Endocrinology
+Q026,P026,"How to identify a food allergy?","Allergy and Immunology",Nutrition,"General Medicine",Dermatology
+Q027,P027,"What are the symptoms of liver disease?",Hepatology,Nutrition,"General Medicine",Gastroenterology
+Q028,P028,"What are the complications of untreated asthma?",Pulmonology,"General Medicine",Immunology,Pediatrics
+Q029,P029,"What is the best way to manage weight loss?",Nutrition,Endocrinology,"General Medicine","Lifestyle Medicine"
+Q030,P030,"What are the warning signs of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q031,P031,"What are the best treatments for back pain?",Orthopedics,Physiotherapy,"General Medicine","Pain Management"
+Q032,P032,"How to detect thyroid issues?",Endocrinology,"General Medicine",Nutrition,"Internal Medicine"
+Q033,P033,"What are the common causes of chest pain?",Cardiology,Pulmonology,"General Medicine","Emergency Medicine"
+Q034,P034,"Can stress affect heart health?",Cardiology,Psychiatry,"General Medicine","Lifestyle Medicine"
+Q035,P035,"What are the risks of smoking?",Pulmonology,Cardiology,Oncology,"General Medicine"
+Q036,P036,"How to treat acne effectively?",Dermatology,Nutrition,"General Medicine",Endocrinology
+Q037,P037,"What is the best diet for weight gain?",Nutrition,Endocrinology,"General Medicine","Lifestyle Medicine"
+Q038,P038,"How to manage chronic knee pain?",Orthopedics,Physiotherapy,Rheumatology,"General Medicine"
+Q039,P039,"What are the long-term effects of alcohol abuse?","General Medicine",Hepatology,Neurology,Psychiatry
+Q040,P040,"How to recognize early signs of dementia?",Neurology,Psychiatry,Geriatrics,"General Medicine"
+Q041,P041,"What are the treatments for epilepsy?",Neurology,"General Medicine","Emergency Medicine",Pediatrics
+Q042,P042,"What are the benefits of regular exercise?","Lifestyle Medicine",Cardiology,Endocrinology,"General Medicine"
+Q043,P043,"How to treat a sore throat?",ENT,"General Medicine","Infectious Diseases",Pediatrics
+Q044,P044,"What are the complications of untreated obesity?",Endocrinology,Cardiology,"General Medicine",Nutrition
+Q045,P045,"How to reduce high blood sugar levels quickly?",Endocrinology,Nutrition,"General Medicine","Internal Medicine"
+Q046,P046,"What is the treatment for skin rashes?",Dermatology,"Allergy and Immunology","General Medicine",Pediatrics
+Q047,P047,"How to prevent recurring ear infections?",ENT,"General Medicine",Immunology,Pediatrics
+Q048,P048,"What are the symptoms of a panic attack?",Psychiatry,Neurology,"General Medicine","Emergency Medicine"
+Q049,P049,"How can I lower my cholesterol naturally?",Nutrition,Cardiology,"General Medicine","Lifestyle Medicine"
+Q050,P050,"What are the signs of kidney problems?",Nephrology,"General Medicine",Endocrinology,"Internal Medicine"
+Q051,P051,"What are the risks of untreated depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q052,P052,"How to identify a broken bone?",Orthopedics,"General Medicine","Emergency Medicine",Radiology
+Q053,P053,"What are the early symptoms of cancer?",Oncology,"General Medicine",Hematology,Radiology
+Q054,P054,"How to recover from surgery faster?","General Surgery",Nutrition,Physiotherapy,"General Medicine"
+Q055,P055,"What are the causes of sudden weight loss?",Endocrinology,Nutrition,"General Medicine",Oncology
+Q056,P056,"How to deal with seasonal allergies?","Allergy and Immunology","General Medicine",ENT,Pediatrics
+Q057,P057,"What are the effects of dehydration on health?",Nephrology,"General Medicine",Nutrition,Pediatrics
+Q058,P058,"How to treat a cold or flu at home?","General Medicine",Immunology,Nutrition,Pediatrics
+Q059,P059,"What are the symptoms of a torn ligament?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q060,P060,"What is the treatment for high fever?","General Medicine",Pediatrics,"Infectious Diseases","Emergency Medicine"
+Q061,P061,"What are the causes of frequent urination?",Urology,"General Medicine",Nephrology,Endocrinology
+Q062,P062,"What are the treatments for a torn muscle?",Orthopedics,Physiotherapy,"Sports Medicine","General Medicine"
+Q063,P063,"How can I improve my mental health?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q064,P064,"What are the signs of a heart attack?",Cardiology,"General Medicine","Emergency Medicine",Neurology
+Q065,P065,"How do I manage osteoarthritis pain?",Rheumatology,Orthopedics,Physiotherapy,"General Medicine"
+Q066,P066,"What are the causes of frequent headaches?",Neurology,"General Medicine",ENT,Psychiatry
+Q067,P067,"What is the best way to treat a stomach ulcer?",Gastroenterology,"General Medicine",Nutrition,Hepatology
+Q068,P068,"How can I manage my blood sugar without medication?",Endocrinology,Nutrition,"General Medicine","Lifestyle Medicine"
+Q069,P069,"What are the risks of untreated sleep apnea?",Pulmonology,"General Medicine",Cardiology,Neurology
+Q070,P070,"How to treat a sunburn effectively?",Dermatology,"General Medicine",Pediatrics,Nutrition
+Q071,P071,"What are the best foods for heart health?",Nutrition,Cardiology,"General Medicine",Endocrinology
+Q072,P072,"How can I lower my risk for diabetes?",Endocrinology,Nutrition,"General Medicine","Lifestyle Medicine"
+Q073,P073,"What are the symptoms of chronic obstructive pulmonary disease?",Pulmonology,"General Medicine",Cardiology,Neurology
+Q074,P074,"How can I prevent kidney stones?",Nephrology,Nutrition,"General Medicine",Urology
+Q075,P075,"What are the risks of untreated depression in children?",Psychiatry,Pediatrics,"General Medicine",Neurology
+Q076,P076,"How can I reduce the symptoms of eczema?",Dermatology,"Allergy and Immunology","General Medicine",Pediatrics
+Q077,P077,"What are the side effects of high blood pressure medication?",Cardiology,"General Medicine",Pharmacology,Endocrinology
+Q078,P078,"How to manage the symptoms of menopause?",Gynecology,Endocrinology,"General Medicine",Psychiatry
+Q079,P079,"What are the common causes of dizziness?",Neurology,ENT,Cardiology,"General Medicine"
+Q080,P080,"How to treat a sprained wrist?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q081,P081,"What are the symptoms of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q082,P082,"How to treat a cold sore?",Dermatology,"General Medicine",Pharmacology,Pediatrics
+Q083,P083,"What is the best way to treat a urinary tract infection?",Urology,"General Medicine","Infectious Diseases",Pediatrics
+Q084,P084,"How can I prevent the flu?",Immunology,"General Medicine",Pediatrics,Virology
+Q085,P085,"What is the most effective treatment for asthma?",Pulmonology,"General Medicine","Allergy and Immunology",Pediatrics
+Q086,P086,"How to manage high triglycerides levels?",Cardiology,Nutrition,Endocrinology,"General Medicine"
+Q087,P087,"What are the common symptoms of food poisoning?",Gastroenterology,"Infectious Diseases","General Medicine",Nutrition
+Q088,P088,"What is the best way to treat a mild concussion?",Neurology,"General Medicine","Emergency Medicine",Orthopedics
+Q089,P089,"How to treat swollen ankles?",Orthopedics,Physiotherapy,Rheumatology,"General Medicine"
+Q090,P090,"What are the signs of low blood pressure?",Cardiology,"General Medicine",Endocrinology,Neurology
+Q091,P091,"How can I prevent migraines?",Neurology,"General Medicine","Lifestyle Medicine",Psychiatry
+Q092,P092,"What are the benefits of a high-protein diet?",Nutrition,"General Medicine",Endocrinology,Cardiology
+Q093,P093,"How to manage post-surgery scars?","Plastic Surgery","General Medicine",Dermatology,Physiotherapy
+Q094,P094,"What are the best treatments for allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q129,P015,"How to improve sleep quality?","Sleep Medicine",Psychiatry,"General Medicine","Lifestyle Medicine"
+Q130,P027,"What are the causes of chronic cough?",Pulmonology,"General Medicine",ENT,Cardiology
+Q131,P041,"What are the risks of untreated high cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q132,P016,"How to treat an ear infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q133,P032,"How can I manage blood sugar naturally?",Endocrinology,Nutrition,"General Medicine","Lifestyle Medicine"
+Q134,P023,"What are the early signs of liver disease?",Hepatology,"General Medicine",Gastroenterology,Endocrinology
+Q135,P014,"What are the most common causes of headaches?",Neurology,"General Medicine",ENT,Psychiatry
+Q136,P057,"What are the best treatments for allergic rhinitis?","Allergy and Immunology",ENT,"General Medicine",Pediatrics
+Q137,P089,"What is the treatment for carpal tunnel syndrome?",Orthopedics,"General Medicine",Neurology,Physiotherapy
+Q138,P075,"How to manage symptoms of bipolar disorder?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q139,P056,"What are the causes of heart palpitations?",Cardiology,"General Medicine",Neurology,Psychiatry
+Q140,P042,"What are the risks of untreated sleep apnea?",Pulmonology,Cardiology,"General Medicine",Neurology
+Q141,P092,"How to treat acid reflux?",Gastroenterology,"General Medicine",Endocrinology,Pediatrics
+Q142,P078,"What are the signs of iron deficiency?",Hematology,"General Medicine",Nutrition,Endocrinology
+Q143,P063,"How can I reduce the symptoms of eczema?",Dermatology,"Allergy and Immunology","General Medicine",Pediatrics
+Q144,P102,"What are the treatments for psoriasis?",Dermatology,"General Medicine",Rheumatology,Pediatrics
+Q145,P014,"How can I manage my anxiety without medication?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q146,P059,"How to treat a sprained ankle?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q147,P021,"What are the treatments for a broken arm?",Orthopedics,"General Medicine","Sports Medicine",Pediatrics
+Q148,P040,"How to lower cholesterol levels without medication?",Nutrition,Cardiology,"General Medicine",Endocrinology
+Q149,P051,"What is the treatment for a pinched nerve?",Neurology,Orthopedics,"General Medicine","Pain Management"
+Q150,P023,"What are the signs of an asthma attack?",Pulmonology,Cardiology,"General Medicine",Pediatrics
+Q151,P078,"How can I improve my digestive health?",Gastroenterology,Nutrition,"General Medicine","Internal Medicine"
+Q152,P107,"What are the best ways to relieve stress?",Psychiatry,"General Medicine","Lifestyle Medicine",Neurology
+Q153,P085,"What are the risks of untreated dehydration?",Nephrology,"General Medicine",Nutrition,Pediatrics
+Q154,P096,"How to deal with back pain from sitting long hours?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q155,P114,"What are the signs of a heart attack in women?",Cardiology,"General Medicine","Emergency Medicine",Neurology
+Q156,P017,"How to manage stress during pregnancy?",Obstetrics,Psychiatry,"General Medicine","Lifestyle Medicine"
+Q157,P120,"What are the treatments for a urinary tract infection?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q158,P070,"How can I improve my memory and focus?",Neurology,Psychiatry,"General Medicine","Lifestyle Medicine"
+Q159,P087,"What are the causes of joint pain?",Rheumatology,Orthopedics,"General Medicine",Physiotherapy
+Q160,P095,"What are the best practices for staying healthy while traveling?","General Medicine",Pediatrics,Nutrition,"Lifestyle Medicine"
+Q161,P013,"What are the symptoms of dehydration?","General Medicine",Pediatrics,Nephrology,Nutrition
+Q162,P092,"What are the best treatments for migraines?",Neurology,"General Medicine",Psychiatry,"Lifestyle Medicine"
+Q163,P042,"How can I improve my sleep hygiene?","Sleep Medicine","General Medicine",Psychiatry,"Lifestyle Medicine"
+Q164,P057,"How do I treat a sore throat?","General Medicine",Pediatrics,ENT,Immunology
+Q165,P045,"What are the causes of dizziness?",Neurology,ENT,Cardiology,"General Medicine"
+Q166,P061,"How can I lower my blood pressure naturally?",Cardiology,Nutrition,"General Medicine",Endocrinology
+Q167,P080,"What are the causes of chronic fatigue?","General Medicine",Psychiatry,Neurology,"Lifestyle Medicine"
+Q168,P013,"How to treat muscle soreness after a workout?",Orthopedics,Physiotherapy,"Sports Medicine","General Medicine"
+Q169,P070,"What are the treatments for depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q170,P027,"How can I treat a sprained ankle?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q171,P058,"What are the common causes of back pain?",Orthopedics,Physiotherapy,"General Medicine",Rheumatology
+Q172,P095,"How to treat a mild concussion?",Neurology,"Emergency Medicine","General Medicine","Sports Medicine"
+Q173,P082,"What are the best treatments for eczema?",Dermatology,"General Medicine",Pediatrics,"Allergy and Immunology"
+Q174,P089,"How can I improve my posture?",Orthopedics,"General Medicine",Physiotherapy,"Lifestyle Medicine"
+Q175,P017,"What are the symptoms of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q176,P056,"What are the most common causes of stomach bloating?",Gastroenterology,"General Medicine",Nutrition,Pediatrics
+Q177,P096,"How to treat severe cold symptoms?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q178,P023,"What are the signs of an allergic reaction?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q179,P052,"What are the symptoms of a vitamin B12 deficiency?",Endocrinology,"General Medicine",Neurology,Nutrition
+Q180,P051,"How can I reduce the risk of a heart attack?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q181,P080,"What are the signs of high blood pressure?",Cardiology,"General Medicine",Endocrinology,Neurology
+Q182,P070,"How to improve my cholesterol levels?",Cardiology,Nutrition,"General Medicine",Endocrinology
+Q183,P038,"What are the causes of hair loss?",Dermatology,"General Medicine",Endocrinology,Nutrition
+Q184,P075,"How to treat mild allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q185,P029,"What are the symptoms of food poisoning?",Gastroenterology,"Infectious Diseases","General Medicine",Nutrition
+Q186,P046,"How can I prevent osteoporosis?",Rheumatology,"General Medicine",Orthopedics,Endocrinology
+Q187,P091,"How to treat acid reflux?",Gastroenterology,Pediatrics,"General Medicine",Endocrinology
+Q188,P063,"What are the treatments for acne?",Dermatology,"General Medicine",Pediatrics,Endocrinology
+Q189,P051,"How to manage chronic back pain?",Orthopedics,Physiotherapy,"Pain Management","General Medicine"
+Q190,P076,"What are the treatments for a sunburn?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q191,P070,"How to deal with chronic stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q192,P037,"What are the signs of a kidney infection?",Nephrology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q193,P061,"What is the treatment for a sprained wrist?",Orthopedics,"General Medicine","Sports Medicine",Pediatrics
+Q194,P020,"What are the common causes of dizziness?",Neurology,Cardiology,"General Medicine",ENT
+Q195,P072,"How can I improve my immune system?",Immunology,Nutrition,"General Medicine","Lifestyle Medicine"
+Q196,P015,"What are the best treatments for a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q197,P061,"What is the treatment for chronic fatigue?","General Medicine",Psychiatry,Neurology,"Lifestyle Medicine"
+Q198,P039,"How can I treat skin rashes at home?",Dermatology,"General Medicine",Pediatrics,"Allergy and Immunology"
+Q199,P052,"What are the symptoms of hypothyroidism?",Endocrinology,"General Medicine",Neurology,Nutrition
+Q200,P054,"How to treat muscle cramps?",Orthopedics,Physiotherapy,"General Medicine","Sports Medicine"
+Q2003,p2401,"The minimum temperature in Vijayawada today is likely to hover around 22 degrees Celsius, while the maximum temperature might reach 24 degrees Celsius. The mercury level is expected to hover around 22 degrees Celsius throughout the day, with the wind speed around 4.09 ?",Medical,Geriatrics,Genetics,Endocrinology
+Q201,P057,"What are the signs of a vitamin C deficiency?","General Medicine",Nutrition,Endocrinology,Pediatrics
+Q202,P072,"How can I prevent seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q203,P038,"What are the symptoms of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q204,P085,"How can I prevent muscle strains?",Orthopedics,"General Medicine","Sports Medicine",Physiotherapy
+Q205,P089,"What are the best ways to relieve anxiety?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q206,P021,"What is the best way to treat heartburn?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q207,P061,"What are the best treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q208,P045,"How can I reduce my cholesterol levels?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q209,P076,"What are the causes of nausea during pregnancy?",Obstetrics,Gastroenterology,"General Medicine",Pediatrics
+Q210,P080,"How to deal with chronic headaches?",Neurology,"General Medicine",Psychiatry,"Lifestyle Medicine"
+Q211,P045,"What are the treatments for joint pain?",Rheumatology,Orthopedics,"General Medicine",Physiotherapy
+Q212,P074,"What are the symptoms of diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q213,P091,"How can I improve my digestion?",Gastroenterology,Nutrition,"General Medicine","Internal Medicine"
+Q214,P063,"What is the treatment for a mild concussion?",Neurology,"Emergency Medicine","General Medicine","Sports Medicine"
+Q215,P089,"What are the symptoms of a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q216,P070,"How can I improve my concentration?",Psychiatry,Neurology,"General Medicine","Lifestyle Medicine"
+Q217,P090,"What are the signs of dehydration in children?",Pediatrics,"General Medicine",Nephrology,Nutrition
+Q218,P017,"How can I reduce my stress levels?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q219,P074,"What are the treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q220,P023,"How can I reduce the risk of stroke?",Neurology,Cardiology,"General Medicine",Endocrinology
+Q221,P037,"What is the treatment for a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q222,P063,"What are the symptoms of depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q223,P059,"How can I prevent high blood pressure?",Cardiology,"General Medicine",Endocrinology,"Lifestyle Medicine"
+Q224,P071,"What are the causes of bloating?",Gastroenterology,"General Medicine",Nutrition,Pediatrics
+Q225,P091,"How to prevent skin aging?",Dermatology,"General Medicine",Nutrition,Pediatrics
+Q226,P018,"What are the causes of shortness of breath?",Pulmonology,Cardiology,"General Medicine",Pediatrics
+Q227,P074,"How can I treat seasonal allergies?","Allergy and Immunology",Pediatrics,"General Medicine",Dermatology
+Q228,P052,"What are the symptoms of a panic attack?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q229,P014,"How to manage stress at work?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q230,P051,"What are the best treatments for a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q231,P081,"What are the causes of bloating after meals?",Gastroenterology,Nutrition,"General Medicine",Pediatrics
+Q232,P038,"How can I prevent seasonal flu?",Immunology,"General Medicine",Pediatrics,"Respiratory Medicine"
+Q233,P089,"What are the causes of chronic pain?","Pain Management","General Medicine",Orthopedics,Psychiatry
+Q234,P022,"How can I reduce my risk of getting a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q235,P075,"What are the signs of an eye infection?",Ophthalmology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q236,P057,"How can I improve my heart health?",Cardiology,Nutrition,"General Medicine",Endocrinology
+Q237,P071,"What are the treatments for vertigo?",Neurology,"General Medicine",ENT,Pediatrics
+Q238,P015,"How to treat a stomach ulcer?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q239,P089,"What are the best ways to manage arthritis pain?",Rheumatology,Orthopedics,"General Medicine","Pain Management"
+Q240,P057,"What are the signs of iron deficiency?",Hematology,"General Medicine",Pediatrics,Nutrition
+Q241,P078,"How can I improve my sleep?","Sleep Medicine",Psychiatry,"General Medicine","Lifestyle Medicine"
+Q242,P070,"How can I reduce the risk of getting diabetes?",Endocrinology,"General Medicine",Nutrition,Pediatrics
+Q243,P050,"What are the symptoms of high blood pressure?",Cardiology,"General Medicine",Endocrinology,Neurology
+Q244,P021,"How can I prevent heart disease?",Cardiology,"General Medicine",Nutrition,Endocrinology
+Q245,P042,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q246,P017,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q247,P092,"What are the best ways to manage depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q248,P086,"How can I manage my cholesterol levels?",Cardiology,Nutrition,"General Medicine",Endocrinology
+Q249,P055,"What is the best treatment for a common cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q250,P014,"How can I treat a rash at home?",Dermatology,"General Medicine",Pediatrics,"Allergy and Immunology"
+Q251,P028,"What are the causes of indigestion?",Gastroenterology,"General Medicine",Nutrition,Pediatrics
+Q252,P063,"What are the treatments for a headache?",Neurology,"General Medicine","Pain Management",Pediatrics
+Q253,P039,"How can I manage stress during exams?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q254,P046,"What are the best treatments for an asthma attack?",Pulmonology,"General Medicine",Pediatrics,Cardiology
+Q255,P084,"What are the symptoms of a vitamin D deficiency?",Endocrinology,"General Medicine",Nutrition,Pediatrics
+Q289,P033,"What are the causes of nausea?",Gastroenterology,"General Medicine",Pediatrics,Neurology
+Q290,P025,"How can I prevent high blood pressure?",Cardiology,Nutrition,Endocrinology,"General Medicine"
+Q291,P058,"What are the symptoms of a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q292,P048,"How to treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q293,P070,"What are the treatments for sleep apnea?","Sleep Medicine","General Medicine",Pediatrics,Neurology
+Q294,P083,"How can I improve my gut health?",Gastroenterology,"General Medicine",Nutrition,Pediatrics
+Q295,P027,"What are the signs of a vitamin deficiency?",Nutrition,"General Medicine",Pediatrics,Endocrinology
+Q296,P079,"How to manage chronic fatigue?","General Medicine",Psychiatry,Neurology,"Lifestyle Medicine"
+Q297,P073,"What are the causes of dizziness?",Neurology,"General Medicine",Cardiology,ENT
+Q298,P020,"How to treat a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q299,P036,"What are the treatments for seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q300,P072,"How can I treat a migraine?",Neurology,"General Medicine","Pain Management",Psychiatry
+Q301,P082,"What are the best ways to relieve back pain?",Orthopedics,"General Medicine",Physiotherapy,"Sports Medicine"
+Q302,P091,"What is the treatment for a skin rash?",Dermatology,"General Medicine",Pediatrics,"Allergy and Immunology"
+Q303,P053,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q304,P039,"What are the causes of heartburn?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q305,P017,"How can I manage stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q306,P078,"What are the treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q307,P074,"How can I improve my mental health?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q308,P054,"What are the symptoms of depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q309,P091,"How can I prevent a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q310,P065,"What is the treatment for a urinary tract infection?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q311,P072,"What are the best ways to lower cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q312,P051,"What are the causes of high blood pressure?",Cardiology,"General Medicine",Endocrinology,Neurology
+Q313,P085,"How can I reduce my risk of heart disease?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q314,P045,"What are the treatments for joint pain?",Rheumatology,Orthopedics,"General Medicine","Pain Management"
+Q315,P027,"How to treat a mild allergic reaction?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q316,P089,"What are the signs of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q317,P062,"What is the treatment for a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q318,P068,"How to treat muscle cramps?",Orthopedics,"General Medicine",Physiotherapy,"Sports Medicine"
+Q319,P029,"What are the treatments for seasonal flu?",Immunology,"General Medicine",Pediatrics,"Respiratory Medicine"
+Q320,P022,"How can I manage a chronic cough?","Respiratory Medicine","General Medicine",Pediatrics,Cardiology
+Q321,P039,"What are the causes of dizziness?",Neurology,"General Medicine",Cardiology,ENT
+Q322,P053,"What are the treatments for high blood pressure?",Cardiology,"General Medicine",Endocrinology,Pediatrics
+Q323,P057,"How can I improve my digestion?",Gastroenterology,"General Medicine",Nutrition,Pediatrics
+Q324,P014,"What are the symptoms of stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q325,P070,"How can I prevent skin cancer?",Dermatology,"General Medicine",Pediatrics,Oncology
+Q326,P086,"What is the treatment for a runny nose?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q327,P025,"How can I treat a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q328,P031,"What are the treatments for food poisoning?",Gastroenterology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q329,P066,"What are the signs of high cholesterol?",Cardiology,"General Medicine",Endocrinology,Pediatrics
+Q330,P059,"How can I prevent heart disease?",Cardiology,"General Medicine",Nutrition,Endocrinology
+Q331,P020,"What are the causes of shortness of breath?",Pulmonology,"General Medicine",Cardiology,Pediatrics
+Q332,P087,"How can I treat an eye infection?",Ophthalmology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q333,P050,"What are the signs of a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q334,P045,"What are the causes of chest pain?",Cardiology,"General Medicine",Pulmonology,Gastroenterology
+Q335,P063,"How can I treat a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q336,P033,"What are the treatments for joint pain?",Orthopedics,Rheumatology,"General Medicine","Pain Management"
+Q337,P021,"How can I manage my anxiety?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q338,P014,"What are the causes of frequent headaches?",Neurology,"General Medicine","Pain Management",Pediatrics
+Q339,P065,"How can I improve my immune system?",Immunology,"General Medicine",Nutrition,"Lifestyle Medicine"
+Q340,P017,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q341,P032,"How can I manage back pain?",Orthopedics,"General Medicine","Sports Medicine",Pediatrics
+Q342,P074,"What are the symptoms of an allergic reaction?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q343,P053,"How can I improve my sleep?","Sleep Medicine",Psychiatry,"General Medicine","Lifestyle Medicine"
+Q344,P062,"What are the treatments for acne?",Dermatology,"General Medicine",Pediatrics,Endocrinology
+Q345,P072,"What are the causes of a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q346,P076,"How can I prevent stroke?",Neurology,Cardiology,"General Medicine",Endocrinology
+Q347,P068,"What are the symptoms of depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q348,P045,"How can I prevent a heart attack?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q349,P080,"What are the treatments for vertigo?",Neurology,"General Medicine",ENT,Pediatrics
+Q350,P087,"What are the best ways to manage stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q351,P073,"What are the causes of abdominal pain?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q352,P070,"How can I prevent a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q353,P045,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q354,P030,"What is the best treatment for a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q355,P028,"How to manage a high fever?","General Medicine",Pediatrics,Immunology,"Emergency Medicine"
+Q356,P060,"What are the treatments for ear infections?",ENT,"General Medicine",Pediatrics,Immunology
+Q357,P018,"How can I improve my digestion?",Gastroenterology,Nutrition,Pediatrics,"General Medicine"
+Q358,P093,"What are the symptoms of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q359,P029,"What are the signs of food allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q360,P083,"How can I treat anxiety?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q361,P071,"What is the treatment for a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q362,P078,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q363,P063,"What are the treatments for seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q364,P075,"What is the best treatment for asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q365,P062,"How can I prevent sunburn?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q366,P059,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q367,P074,"What are the symptoms of high blood sugar?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q368,P061,"What are the best treatments for a migraine?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q369,P043,"How can I treat an ear infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q370,P045,"How can I prevent high cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q371,P077,"What are the best ways to prevent heart disease?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q372,P062,"How can I reduce stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q373,P029,"What are the treatments for a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q374,P052,"What are the treatments for a urinary tract infection?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q375,P073,"How can I improve my immune system?",Immunology,"General Medicine",Nutrition,"Lifestyle Medicine"
+Q376,P038,"How can I treat a headache?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q377,P057,"What are the causes of joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q378,P046,"What are the treatments for constipation?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q379,P081,"How can I prevent skin rashes?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q380,P040,"How can I manage my blood pressure?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q381,P027,"What are the symptoms of a urinary tract infection?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q382,P048,"What are the causes of indigestion?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q383,P079,"How can I treat muscle soreness?",Orthopedics,"General Medicine",Pediatrics,Physiotherapy
+Q384,P074,"What are the treatments for a common cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q385,P033,"How can I prevent heart attacks?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q386,P023,"What are the treatments for anxiety disorders?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q387,P085,"How can I treat chronic pain?","Pain Management","General Medicine",Orthopedics,Neurology
+Q388,P073,"What are the signs of depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q389,P066,"How can I prevent seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q390,P065,"What is the treatment for a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q391,P071,"What are the causes of fever?","General Medicine",Pediatrics,"Infectious Diseases",Immunology
+Q392,P020,"What are the signs of a stroke?",Neurology,Cardiology,"General Medicine","Emergency Medicine"
+Q393,P029,"How can I prevent headaches?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q394,P053,"What are the treatments for high cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q395,P063,"How can I manage blood sugar levels?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q396,P085,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q397,P039,"What are the causes of a heart murmur?",Cardiology,"General Medicine",Pediatrics,Neurology
+Q398,P020,"How can I treat a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q399,P075,"What are the treatments for acne?",Dermatology,"General Medicine",Pediatrics,Endocrinology
+Q400,P037,"What are the signs of a heart attack?",Cardiology,"General Medicine",Pediatrics,"Emergency Medicine"
+Q401,P022,"How can I prevent a migraine?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q402,P091,"What are the causes of shortness of breath?",Pulmonology,"General Medicine",Cardiology,Pediatrics
+Q403,P048,"How can I treat a fever?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q404,P073,"What are the treatments for a skin rash?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q405,P074,"What is the best treatment for a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q406,P085,"How can I treat joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q407,P032,"What are the causes of muscle cramps?",Orthopedics,"General Medicine",Pediatrics,"Sports Medicine"
+Q408,P057,"How can I prevent back pain?",Orthopedics,"General Medicine",Physiotherapy,Pediatrics
+Q409,P020,"What are the treatments for an ear infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q410,P065,"How can I reduce my cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q411,P027,"What are the symptoms of asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q412,P047,"How can I manage my diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q413,P065,"What are the treatments for bronchitis?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q414,P039,"How can I improve my heart health?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q415,P018,"What are the best treatments for a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q416,P043,"What are the signs of a urinary tract infection?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q417,P062,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q418,P069,"What are the causes of chronic fatigue?","General Medicine",Pediatrics,Neurology,Psychiatry
+Q419,P053,"How can I prevent high cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q420,P057,"What are the treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q421,P055,"What are the causes of weight loss?",Endocrinology,"General Medicine",Pediatrics,Oncology
+Q422,P034,"How can I prevent diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q423,P038,"What are the signs of anemia?",Hematology,"General Medicine",Pediatrics,Nutrition
+Q424,P084,"How can I treat an allergy?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q425,P072,"What is the treatment for a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q426,P043,"What are the causes of muscle cramps?",Orthopedics,"General Medicine",Pediatrics,"Sports Medicine"
+Q427,P019,"How can I manage my stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q428,P070,"What are the best treatments for eczema?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q429,P029,"How can I treat food poisoning?",Gastroenterology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q430,P076,"What are the treatments for allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q431,P052,"How can I prevent asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q432,P069,"What are the symptoms of hypertension?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q433,P022,"How can I manage my weight?","General Medicine",Pediatrics,Nutrition,"Lifestyle Medicine"
+Q434,P026,"What are the best ways to prevent cancer?",Oncology,"General Medicine",Pediatrics,Endocrinology
+Q435,P043,"How can I prevent a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q436,P050,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q437,P075,"How can I treat a sinus headache?",Neurology,"General Medicine",Pediatrics,ENT
+Q438,P083,"What is the treatment for an ear infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q439,P030,"What are the causes of bloating?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q440,P067,"How can I improve my digestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q441,P037,"What are the causes of a headache?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q442,P041,"How can I improve my skin health?",Dermatology,"General Medicine",Pediatrics,Nutrition
+Q443,P046,"What are the treatments for anxiety?",Psychiatry,"General Medicine",Pediatrics,Neurology
+Q444,P084,"What are the causes of high blood pressure?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q445,P050,"How can I manage my stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q446,P068,"What are the treatments for asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q447,P076,"What are the causes of nausea?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q448,P076,"How can I prevent heart disease?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q449,P073,"What are the best treatments for a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q450,P067,"What are the causes of bloating?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q451,P070,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q452,P084,"What are the treatments for seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q453,P037,"What is the treatment for a sinus infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q454,P022,"What are the treatments for a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q455,P027,"How can I improve my digestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q456,P052,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q457,P058,"How can I treat insomnia?","Sleep Medicine","General Medicine",Psychiatry,Neurology
+Q458,P041,"What are the treatments for acne?",Dermatology,"General Medicine",Pediatrics,Endocrinology
+Q459,P062,"How can I reduce stress?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q460,P069,"What is the best treatment for high cholesterol?",Cardiology,"General Medicine",Endocrinology,Nutrition
+Q461,P084,"What are the symptoms of depression?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q462,P058,"How can I prevent heart attacks?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q463,P029,"What are the causes of a skin rash?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q464,P053,"How can I prevent diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q465,P027,"How can I manage a headache?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q466,P037,"What are the treatments for joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q467,P068,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q468,P076,"How can I improve my immune system?",Immunology,"General Medicine",Pediatrics,Nutrition
+Q469,P075,"What are the causes of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q470,P072,"What are the symptoms of high blood sugar?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q471,P036,"What are the treatments for seasonal flu?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q472,P062,"How can I manage my cholesterol levels?",Cardiology,Endocrinology,Nutrition,"General Medicine"
+Q473,P058,"What are the symptoms of chronic fatigue syndrome?","General Medicine",Pediatrics,Neurology,Psychiatry
+Q474,P079,"How can I prevent urinary tract infections?",Urology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q475,P074,"What are the treatments for dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q476,P037,"How can I manage high blood pressure?",Cardiology,Endocrinology,"General Medicine",Nutrition
+Q477,P059,"What are the causes of a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q478,P072,"How can I treat a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q479,P065,"What are the treatments for a headache?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q480,P071,"How can I manage my weight?","General Medicine",Nutrition,Pediatrics,"Lifestyle Medicine"
+Q481,P027,"What are the causes of muscle pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q482,P065,"How can I prevent asthma attacks?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q483,P070,"What are the treatments for allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q484,P052,"How can I improve my heart health?",Cardiology,"General Medicine",Pediatrics,Nutrition
+Q485,P029,"What are the causes of a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q486,P071,"How can I treat joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q487,P084,"What is the best way to manage stress?",Psychiatry,Neurology,"General Medicine","Lifestyle Medicine"
+Q488,P047,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q489,P069,"How can I treat a fever?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q490,P042,"What are the causes of excessive thirst?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q491,P058,"How can I treat a skin rash?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q492,P061,"What are the symptoms of sleep apnea?","Sleep Medicine","General Medicine",Pediatrics,Neurology
+Q493,P043,"How can I prevent diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q494,P062,"What are the treatments for a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q495,P067,"How can I improve my digestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q496,P050,"What are the causes of nausea and vomiting?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q497,P069,"How can I treat acid reflux?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q498,P039,"What are the treatments for anxiety?",Psychiatry,"General Medicine",Neurology,"Lifestyle Medicine"
+Q499,P065,"What are the causes of joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q500,P074,"How can I prevent migraines?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q501,P046,"What are the treatments for dry eyes?",Ophthalmology,"General Medicine",Pediatrics,Dermatology
+Q502,P062,"How can I prevent high blood pressure?",Cardiology,Endocrinology,"General Medicine",Nutrition
+Q503,P065,"What are the causes of chronic cough?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q504,P057,"What are the treatments for allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q505,P083,"How can I prevent skin infections?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q506,P075,"What are the causes of frequent urination?",Urology,"General Medicine",Pediatrics,Endocrinology
+Q507,P058,"How can I treat a backache?",Orthopedics,"General Medicine",Pediatrics,"Pain Management"
+Q508,P027,"What are the treatments for a cold sore?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q509,P068,"What are the causes of a fever?","General Medicine",Pediatrics,"Infectious Diseases",Immunology
+Q510,P048,"How can I improve my mental health?",Psychiatry,"General Medicine",Pediatrics,Neurology
+Q511,P071,"What are the best treatments for asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q512,P073,"What are the treatments for sinusitis?",ENT,"General Medicine",Pediatrics,Immunology
+Q513,P073,"What are the causes of bloating?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q514,P045,"How can I prevent osteoporosis?",Orthopedics,"General Medicine",Pediatrics,Endocrinology
+Q515,P052,"What are the symptoms of sleep apnea?","Sleep Medicine","General Medicine",Pediatrics,Neurology
+Q516,P064,"What are the best treatments for eczema?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q517,P039,"How can I manage my blood sugar levels?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q518,P055,"What are the treatments for stress?",Psychiatry,"General Medicine",Pediatrics,Neurology
+Q519,P047,"What are the signs of a heart attack?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q520,P073,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q521,P063,"How can I improve my digestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q522,P060,"What are the treatments for dandruff?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q523,P045,"What are the causes of joint stiffness?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q524,P081,"How can I treat an ear infection?",ENT,"General Medicine",Pediatrics,Immunology
+Q525,P072,"What are the causes of nausea and vomiting?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q526,P053,"What are the best treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q527,P029,"How can I treat food poisoning?",Gastroenterology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q528,P079,"What are the symptoms of pneumonia?",Pulmonology,"General Medicine",Pediatrics,"Infectious Diseases"
+Q529,P056,"How can I treat an upset stomach?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q530,P054,"What are the causes of chest pain?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q531,P039,"What are the causes of headaches?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q532,P066,"What are the treatments for acid reflux?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q533,P065,"How can I prevent a cold?","General Medicine",Pediatrics,Immunology,Nutrition
+Q534,P073,"What are the treatments for constipation?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q535,P052,"How can I reduce my cholesterol?",Cardiology,Endocrinology,Nutrition,"General Medicine"
+Q536,P027,"What are the causes of indigestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q537,P065,"How can I prevent asthma symptoms?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q538,P056,"What are the treatments for a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q539,P075,"What are the best ways to reduce stress?",Psychiatry,"General Medicine",Pediatrics,Neurology
+Q540,P072,"What are the signs of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q541,P041,"How can I treat a skin rash?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q542,P068,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q543,P056,"How can I manage diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q544,P079,"What are the causes of frequent headaches?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q545,P041,"How can I prevent sinus infections?",ENT,"General Medicine",Pediatrics,Immunology
+Q546,P053,"What are the treatments for back pain?",Orthopedics,"General Medicine",Pediatrics,"Pain Management"
+Q547,P067,"How can I improve my digestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q548,P048,"What are the treatments for seasonal allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q549,P084,"How can I prevent high blood pressure?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q550,P062,"What are the treatments for sleep disorders?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q551,P052,"What are the signs of heart disease?",Cardiology,"General Medicine",Pediatrics,Endocrinology
+Q552,P056,"How can I treat a fever?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q553,P067,"What are the causes of joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q554,P070,"How can I manage my cholesterol?",Cardiology,Endocrinology,"General Medicine",Nutrition
+Q555,P084,"What are the treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q556,P027,"How can I treat nausea?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
+Q557,P048,"What are the causes of hair loss?",Dermatology,"General Medicine",Pediatrics,Endocrinology
+Q558,P065,"How can I improve my immune system?",Immunology,"General Medicine",Pediatrics,Nutrition
+Q559,P057,"What are the treatments for acne?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q560,P039,"What are the best ways to manage stress?",Psychiatry,"General Medicine",Pediatrics,Neurology
+Q561,P029,"How can I prevent indigestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q562,P076,"What are the treatments for joint stiffness?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q563,P074,"What are the treatments for sore eyes?",Ophthalmology,"General Medicine",Pediatrics,Dermatology
+Q564,P069,"How can I prevent migraines?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q565,P072,"What are the symptoms of flu?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q566,P062,"How can I manage high blood pressure?",Cardiology,Endocrinology,"General Medicine",Nutrition
+Q567,P059,"What are the causes of frequent headaches?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q568,P084,"How can I treat a cold?","General Medicine",Pediatrics,Immunology,"Respiratory Medicine"
+Q569,P057,"What are the treatments for cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q570,P039,"What are the causes of a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q571,P069,"How can I manage diabetes?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q572,P066,"What are the causes of fatigue?","General Medicine",Pediatrics,Neurology,Psychiatry
+Q573,P065,"How can I treat joint pain?",Orthopedics,"General Medicine",Pediatrics,Rheumatology
+Q574,P062,"What are the treatments for insomnia?","Sleep Medicine",Psychiatry,"General Medicine",Neurology
+Q575,P042,"What are the causes of excessive thirst?",Endocrinology,"General Medicine",Pediatrics,Nutrition
+Q576,P053,"How can I treat indigestion?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q577,P072,"What are the symptoms of dehydration?",Nephrology,"General Medicine",Pediatrics,Nutrition
+Q578,P065,"How can I manage my weight?","General Medicine",Nutrition,Pediatrics,Endocrinology
+Q579,P077,"What are the best treatments for allergies?","Allergy and Immunology","General Medicine",Pediatrics,Dermatology
+Q580,P058,"What are the causes of stomach pain?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q581,P029,"How can I treat a stomach ulcer?",Gastroenterology,"General Medicine",Pediatrics,Nutrition
+Q582,P065,"What are the causes of muscle spasms?",Neurology,"General Medicine",Pediatrics,Orthopedics
+Q583,P071,"How can I treat a sore throat?",ENT,"General Medicine",Pediatrics,Immunology
+Q584,P078,"What are the best treatments for asthma?",Pulmonology,"General Medicine",Pediatrics,Immunology
+Q585,P073,"What are the symptoms of an infection?","General Medicine",Pediatrics,Immunology,"Infectious Diseases"
+Q586,P065,"How can I prevent high cholesterol?",Cardiology,Endocrinology,"General Medicine",Nutrition
+Q587,P046,"What are the treatments for skin rashes?",Dermatology,"General Medicine",Pediatrics,Immunology
+Q588,P079,"How can I improve my heart health?",Cardiology,"General Medicine",Pediatrics,Nutrition
+Q589,P062,"What are the treatments for back pain?",Orthopedics,"General Medicine",Pediatrics,"Pain Management"
+Q590,P056,"What are the causes of dizziness?",Neurology,"General Medicine",Pediatrics,Cardiology
+Q591,P072,"What are the treatments for a cough?","Respiratory Medicine","General Medicine",Pediatrics,Immunology
+Q592,P066,"How can I treat a headache?",Neurology,"General Medicine",Pediatrics,"Pain Management"
+Q593,P075,"What are the causes of nausea?",Gastroenterology,"General Medicine",Pediatrics,Endocrinology
